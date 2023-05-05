@@ -23,9 +23,9 @@ The game ends when you have no more lives left.
 ###Code Structure
 The code is structured as follows:
 
-Activity_Game: The main activity class that handles most of the game logic.
-Objects: This package contains classes for the game objects (rocks, cars, hearts, coins) and their properties.
-Audio: This package contains a class for handling audio playback.
-res: This folder contains the app resources, including layouts, drawables, and audio files.
-License
+#### Activity_Game: The main activity class that handles most of the game logic.
+#### Objects: This package contains classes for the game objects (rocks, cars, hearts, coins) and their properties.
+#### Audio: This package contains a class for handling audio playback.
+#### res: This folder contains the app resources, including layouts, drawables, and audio files.
+#### License
 This project is licensed under the MIT License. See the LICENSE file for details.
